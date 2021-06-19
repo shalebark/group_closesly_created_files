@@ -3,7 +3,7 @@
 
 This is a script used to group and sort files based on the time they were added. Files created in a similar time, such as files that were scrapped from the internet, should have similar modified timestamps on them. This can be used to group them based on when the script was used to scrap those files.
 
-### What does it really do?
+### What does it do?
 
 It looks at the modified timestamp date of all the files, then groups the files that were all created within a desired (default: 120) second(s) interval.
 
